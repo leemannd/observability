@@ -1,0 +1,3 @@
+[submodule "containers-course-app"]
+	path = containers-course-app
+	url = git@github.com:leemannd/containers-course-app.git
